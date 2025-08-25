@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Kowshik!
 
-<!--
-**kowshikaravind/kowshikaravind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌱 I’m currently learning **Java, Data Structures & Algorithms**
+- 💻 Interested in **Web Development / Problem Solving**
+- 📚 Exploring **Dynamic Programming, System Design**
+- ⚡ Fun fact: I love solving coding challenges!
 
-Here are some ideas to get you started:
+## 🛠️ Languages & Tools
+<p align="left">
+    <img src=<img width="50" height="50" src="https://img.icons8.com/fluency/50/python.png" alt="python"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+    <img width="50" height="50" src="https://img.icons8.com/fluency/50/c-programming.png" alt="c-programming"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Kowshik's GitHub stats]((https://github-readme-activity-graph.vercel.app/graph?username=kowshikaravind&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
+
+## 📫 Connect with Me
+- [LinkedIn](![LeetCode Stats](https://leetcard.jacoblin.cool/kowshikaravind?theme=dark&font=Noto%20Sans%20Glagolitic&ext=heatmap))
+
